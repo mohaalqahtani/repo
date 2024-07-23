@@ -1,0 +1,85 @@
+Package: com.mohammedqht.oldrollpatch
+Architecture: iphoneos-arm iphoneos-arm64
+Version: 0.0.1-7
+Section: Tweaks
+Maintainer: Mohammed
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Filename: ./pool/com.mohammedqht.oldrollpatch.deb
+Size: 60000
+MD5sum: c21d349b1487e86965b744571ae03519
+Description: Patch Old Roll App
+Name: Old Roll Tweak
+Author: Mohammed
+
+
+Package: com.mohammed.unicalpatch
+Version: 0.0.1-7
+Section: Tweaks
+Maintainer: Mohammed
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.mohammed.unicalpatch.deb
+Size: 50000
+MD5sum: adb776908e34bbbff239fd8a79d71e3a
+Description: Patch UniCal App
+Name: UniCal Tweak
+Author: Mohammed
+
+Package: Flex3beta
+Version: 1:3~Beta75
+Architecture: iphoneos-arm
+Maintainer: DXcool223
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./debs/Flex3beta_Beta75_Palera1n_Rootful.deb
+Size: 10091260
+MD5sum: d941732349ae3128f03ab4fa28b2710f
+SHA1: 6eca08e5aa0e06f12df33399570c4feaf99dbaaa
+SHA256: 2d46a8d60439ad5cf852c1c84c027270e110c8043d581cb8065d25e7398906c7
+Section: Tweaks
+Description: Flex 3 for Palera1n rootful by DXcool223
+Author: John Coates
+Name: Flex 3 Beta Palera1n Rootful
+Recommended: com.rpetrich.rocketbootstrap
+
+Package: com.randy420.tools
+Version: 2.3.6
+Architecture: iphoneos-arm64
+Maintainer: Randy420 <randy.skinner@hotmail.com>
+Installed-Size: 1484
+Depends: ws.hbang.common
+Replaces: com.randy420.encrypt
+Filename: ./debs/com.randy420.tools_2.3.6_iphoneos-arm64.deb
+Size: 375814
+MD5sum: 335943091389e3142f500ee587b0ba99
+SHA1: f10f25f9fba74c039f5851bbefd069a89dcc9405
+SHA256: 7acaacaa7b40288eaec8093919526e99c9748c1639431620cc554b81d70b4705
+Section: System
+Homepage: https://theemeraldisle.family
+Description: 420Tools holds the preferences for all my tweaks as well as shared files for my tweaks.
+Tag: role::hacker
+Author: Randy420 <randy.skinner@hotmail.com>
+Depiction: https://Randy-420.GitHub.io/depic/420Tools.html
+Name: 420 Tools
+
+Package: ru.rj.ftt
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Randy420 <randy.skinner@hotmail.com>
+Installed-Size: 19856
+Depends: mobilesubstrate, com.randy420.tools (>=2.2)
+Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
+Filename: ./debs/ru.rj.ftt_1.1_iphoneos-arm64.deb
+Size: 18977046
+MD5sum: aa4d09f002378a78f882e5947c0545ba
+SHA1: 91337dc693e44e48950c21932b9ba490dc49eb9e
+SHA256: 6ecd43a5737ea6bdb85f2088f1b20b265cd198e9370b1f12bb3754f1539f0faa
+Section: Utilities
+Homepage: https://theemeraldisle.family
+Description: First made by iPadkid358 - then updated by myself. Change Flex 3 patches into Theos projects using simple terminal commands.
+
+ - Use 'ftt -?' For a full list of options.
+Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
+Depiction: https://Randy-420.GitHub.io/depic/ftt.html
+Name: Flex To Theos
