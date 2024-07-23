@@ -42,11 +42,11 @@ Maintainer: Mohammedqht <none@none.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./pool/com.mohammedqht.oldrollpatch.deb
-Size: 6142
-MD5sum: b18b5c36aa7084ba5c1c91fe322485d9
-SHA1: c9909f0c61b699254191dd7636dcd43326520281
-SHA256: 4b2cf60e5becb089d6928599800c4d74be8af68c5a4c101eae6dd4a66a81dbd4
-SHA512: a001d23b9dacc4f08a304422950eed48289893a8220bede59eb1bd39a4a76e0f368370a5a943dc0fce01e86c820fdae230970238890d11c7144a3b939a9850d6
+Size: 6122
+MD5sum: c21d349b1487e86965b744571ae03519
+SHA1: 948ff9528fde83ea5ebd3306ac6bdfa5152acff3
+SHA256: c2ae6a7f0a87f12c3529465a2f3d64402aeda5045d5b6890f9b729cc04e93a39
+SHA512: e46813c0a6cbd409fb156b12d0db391f837495fe99e16629855d2e541abd679d859791411d8aecec549f58c55652c25ec1ad3cbd10b52475ba5cefea5b0d3a1a
 Description: OldRoll vip
 Name: OldRoll Patch
 Author: Mohammedqht <none@none.com>
