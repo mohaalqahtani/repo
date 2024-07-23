@@ -72,6 +72,23 @@ Name: 420 Tools
 Depiction: https://Randy-420.GitHub.io/depic/420Tools.html
 Author: Randy420 <randy.skinner@hotmail.com>
 
+Package: com.mohammedqht.firstonetweetpatch
+Architecture: iphoneos-arm64
+Version: 0.0.1-7-1+debug
+Section: Tweaks
+Maintainer: Mohammedqht <none@none.me>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./pool/com_mohammedqht_firstonetweetpatch.deb
+Size: 7678
+MD5sum: 331a1e4f13a9a5cdcbe8c90e1d6fa4d1
+SHA1: c034ba8ebd17507063784e5bcf456da9e5a60efa
+SHA256: 05db16a7c80ef71050882eed30f4425b461b48a3d59265026368e0181e1c33d0
+SHA512: 3b60427f35e864ab07b6ffcfd6dbe79d4a0ad5f1aa106a5ba33630bf448944e83c9639234a65c3d5b0d79acee525ecfccffb2a5f8079c1eb8b220d6c3bd766b8
+Description: Remove Ads
+Name: Firstonetweetpatch
+Author: Mohammedqht <none@none.me>
+
 Package: ru.rj.ftt
 Architecture: iphoneos-arm64
 Version: 1.1
