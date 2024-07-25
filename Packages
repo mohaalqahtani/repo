@@ -51,6 +51,23 @@ Description: OldRoll vip
 Name: OldRoll Patch
 Author: Mohammedqht <none@none.com>
 
+Package: com.mohammedqht.wtfanwserpatch
+Architecture: iphoneos-arm64
+Version: 2.2-1+debug
+Section: Patches
+Maintainer: MohammedQht <X:@20_h>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./pool/com.mohammedqht.wtfanwserpatch.deb
+Size: 6236
+MD5sum: f6cfb4765f18cb55da4c5eb83a166563
+SHA1: bd14927189196fe5c7d3f741f91964eaf7121110
+SHA256: 0eebf51945890d8ae77de2378bb837e9afa03db29380af41fec37b5f60efa8bb
+SHA512: deb6b0efb51f22f15386d19a6dce0dbb533b97ff821a12da15dd800599f1e808d42d396742a293f32444b0f7d81eeaa6b6197775f60ff8442d7885e827609907
+Description: Buy Items free , https://apps.apple.com/in/app/%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D8%B7%D8%AD/id6451145584
+Name: WTFAnwserPatch
+Author: MohammedQht <X:@20_h>
+
 Package: com.randy420.tools
 Architecture: iphoneos-arm64
 Version: 2.3.6
