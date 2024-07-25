@@ -89,6 +89,23 @@ Description: Remove Ads
 Name: Firstonetweetpatch
 Author: Mohammedqht <none@none.me>
 
+Package: com.mohammedqht.patchthesecretchallenge
+Architecture: iphoneos-arm64
+Version: 0.0.7-1+debug
+Section: Patches
+Maintainer: MohammedQht <none@none.me>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./pool/com_mohammedqht_patchthesecretchallenge.deb
+Size: 7532
+MD5sum: 6bacfcfba62a306b695cc761cea6af09
+SHA1: d9018f6a9b5faf137db664f7c1c18ca4a493fb1f
+SHA256: f9347e0c3406bbe9e18f8b6b50adffdc3a1abd1c72ab4077c59222268674c771
+SHA512: efb8e75d9662f8cb3869a77deabbd4930f5120c47d12c95dbad23a1656659432c5b983f7292bf68875e6047c1a2c91aa9b2cdb4e3ae05d2f72aa8fa0270b1898
+Description: Remove Ads , Buy everything
+Name: Patch The Secret Challenge
+Author: MohammedQht X:@20_h
+
 Package: ru.rj.ftt
 Architecture: iphoneos-arm64
 Version: 1.1
