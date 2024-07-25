@@ -34,6 +34,23 @@ Description: ***Made using Flex To Theos updated by: Randy420***
 Name: UniCal Patch
 Author: mohammed <none@none.com>
 
+Package: com.mohammedqht.oaydkpatch
+Architecture: iphoneos-arm64
+Version: 3.3.0-1+debug
+Section: Patches
+Maintainer: MohammedQht <X:@20_h>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./pool/com.mohammedqht.oaydkpatch.deb
+Size: 6198
+MD5sum: 8b9dd765d2b9012da364a04860b0b483
+SHA1: a9f45c8f0c57d0ab6138b152dd28174ddd4bef44
+SHA256: 70eb8d25d29ffa56816fc3adb9c2ebd944f915a8846c5b77c930e315e8e87f93
+SHA512: f9e2b77dd223a65692554fced3254ef48fdff3bc9f8c022e42bc7f795ae064700aae034c6be7f67810a54d829b2b0e05f3f94c3c2a599ea0519b4d20e57ff8d7
+Description: Buy everything,https://apps.apple.com/in/app/%D8%B9%D9%88%D8%A7%D9%8A%D8%AF%D9%83/id1281328926
+Name: OaydkPatch
+Author: MohammedQht <X:@20_h>
+
 Package: com.mohammedqht.oldrollpatch
 Architecture: iphoneos-arm64
 Version: 4.2.0-1+debug
@@ -105,6 +122,23 @@ SHA512: 3b60427f35e864ab07b6ffcfd6dbe79d4a0ad5f1aa106a5ba33630bf448944e83c963923
 Description: Remove Ads
 Name: Firstonetweetpatch
 Author: Mohammedqht <none@none.me>
+
+Package: com.mohammedqht.outofcontextpatch
+Architecture: iphoneos-arm64
+Version: 1.29.0-1+debug
+Section: Patches
+Maintainer: MohammedQht <X:@20_h>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./pool/com_mohammedqht_outofcontextpatch.deb
+Size: 7582
+MD5sum: d08bc1ce5ae1dec43a83520d8b75f4f1
+SHA1: 2cd302ce5a78fefeeda8679e14ce99c0c1062965
+SHA256: bf7d92149be74e082151b407c4c7dae9c5cf50a5b96770c5a5fa47c4e0ba17d9
+SHA512: da15b49f837f9a1d70dc7965e7ed4b87ffae0e4108a03c4cdda394bf69c277244304009b40f8eca73af9c0cd146ab379ae8fdad324931e28efb70ed8ef8cbe06
+Description: Ads remove buy everything,https://apps.apple.com/in/app/%D8%A8%D8%B1%D8%A7-%D8%A7%D9%84%D8%B3%D8%A7%D9%84%D9%81%D8%A9/id1486192343
+Name: OutofcontextPatch
+Author: MohammedQht <X:@20_h>
 
 Package: com.mohammedqht.patchthesecretchallenge
 Architecture: iphoneos-arm64
