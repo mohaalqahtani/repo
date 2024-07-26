@@ -34,6 +34,23 @@ Description: ***Made using Flex To Theos updated by: Randy420***
 Name: UniCal Patch
 Author: mohammed <none@none.com>
 
+Package: com.mohammedqht.lammhpatch
+Architecture: iphoneos-arm
+Version: 0.0.7-1+debug
+Section: Patches
+Maintainer: MohammedQht <X=@20_h>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./pool/com.mohammedqht.lammhpatch.deb
+Size: 8630
+MD5sum: ee77d3d46dd3a660b846422a8840c645
+SHA1: 1b2693a9a42c85464d118c1f77be9f7951afc9da
+SHA256: ba66a6d72ce2e042e855477b18779bcc2838049fca9f43af36494f9dd62304de
+SHA512: 9548f971ecc6f33022678aa57197b4c00b7eebb713c90f3bcd150deb8ee38a3dd82c930e4c9e8a675b2f1e92dc4ae14fb55cb24db203a6ad69bacc28832c145d
+Description: Remove Ads
+Name: Lammh Patch
+Author: MohammedQht <X=@20_h>
+
 Package: com.mohammedqht.oaydkpatch
 Architecture: iphoneos-arm64
 Version: 3.3.0-1+debug
