@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    font-family: "Cairo", "Montserrat";
+}
+body {
+    background-color: #101010;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    gap: 20px;
+}
+.box {
+    width: 130px;
+    height: 30px;
+    background-color: #fff;
+    border-radius: 9px;
+}
+.shadow-1 {
+    box-shadow: 0 0 8px 0 #fff;
+}
+.shadow-2 {
+    box-shadow: 0 0 32px 8px #fff;
+}
+.shadow-3 {
+    box-shadow: 0 0 128px 32px #fff;
+}
+
+#list-button{
+    background-color: #101010;
+    border: #101010;
+}
+.img-repos{
+    width: 35px;
+    border-radius: 8px;
+}
