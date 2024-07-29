@@ -174,6 +174,23 @@ Description: Remove Ads , Buy everything
 Name: Patch The Secret Challenge
 Author: MohammedQht X:@20_h
 
+Package: com.mohammedqht.ivcampatch
+Architecture: iphoneos-arm64
+Version: 0.0.7
+Section: Patches
+Maintainer: MohammedQht <X=@20_h>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./pool/ivcampatch.deb
+Size: 4054
+MD5sum: 0a0e2174c3ca5da9f8651a67eccf4cc6
+SHA1: e864a3fcb0691117aa1dad15ab78228082da007e
+SHA256: 649368144423d91a364bdc2f25875a1703143a5f7e4b7dff85448bd9d68d774e
+SHA512: aa41360f847f58e1b1ae1b4213719f4839ca3bfd1b1f489b472e6cc4382fb572575d76377afa42898a3428ce53fff528ae34c50564c4a3cbccdd63cc83d0a84c
+Description: Free Buy
+Name: iVCam Patch
+Author: MohammedQht <X=@20_h>
+
 Package: ru.rj.ftt
 Architecture: iphoneos-arm64
 Version: 1.1
