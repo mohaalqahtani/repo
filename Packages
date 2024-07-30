@@ -174,6 +174,42 @@ Description: Remove Ads , Buy everything
 Name: Patch The Secret Challenge
 Author: MohammedQht X:@20_h
 
+Package: dev.zero.wickedfr33
+Architecture: iphoneos-arm64
+Version: 2.0.3a
+Section: Development
+Maintainer: zero
+Depends: mobilesubstrate, dev.zero.wisp(= 2.0.3), emt.paisseon.xinamine (>= 0.0.5)
+Conflicts: dev.zero.wicked
+Filename: ./pool/dev.zero.wickedfr33_2.0.3a_iphoneos-arm64.deb
+Size: 3681952
+MD5sum: 9c6ca4a98ad2f45657e75f06b4a4339c
+SHA1: bc20ac1dfd82e2ef2fa862dea01b9fd328faade7
+SHA256: 5136417514c60eb20edeaeee448968da24e6b50aaeac1b404f1718e759398cd8
+SHA512: 13094dd90159713b86bea86576e3176671d25fd568ea30541a98101245c8efc3bd76e3f4e58199603bb00e1d1d7bff164b373ddb905c76a31785af771ab2a159
+Description: Free Wicked 2.0.3a for Snapchat 12.36.0.41. 15 characters needed for the license and the email can be any random email address.
+Name: wickedfr33
+Author: zero
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/wickedfr33.png
+
+Package: dev.zero.wisp
+Architecture: iphoneos-arm64
+Version: 2.0.3
+Section: Development
+Maintainer: zero
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5.000), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./pool/dev.zero.wisp_2.0.3_iphoneos-arm64.deb
+Size: 6164
+MD5sum: 06c6792c6675ed7a1a302283a0a8e49f
+SHA1: 60805d7ed9e1c87375aaa71a82b25c2a7c3c3c9c
+SHA256: c30e2e4b01f40db408b424b867c108f1a675c404de0c1b66a3afd7869f09ff06
+SHA512: 03c2e8fa466deef2c7afcb24e53276f8bbe2189707a8dd3d2f6c808aea68e9fb7137e20083f25dcfcb3d166b8a029199f4c54cd97fcef5cf446f71d4bce7f095
+Description: wisp
+Name: wisp
+Author: zero
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/wisp.png
+
 Package: com.mohammedqht.ivcampatch
 Architecture: iphoneos-arm64
 Version: 0.0.7
