@@ -123,6 +123,23 @@ Name: 420 Tools
 Depiction: https://Randy-420.GitHub.io/depic/420Tools.html
 Author: Randy420 <randy.skinner@hotmail.com>
 
+Package: com.mohammedqht.countdiscountpatch
+Architecture: iphoneos-arm64
+Version: 0.0.7-1+debug
+Section: Patches
+Maintainer: MohammedQht <X=@20_h>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./pool/com_mohammedqht_countdiscountpatch_0_0_7_1+debug_iphoneos_arm64.deb
+Size: 6242
+MD5sum: a2ccf82ac92cfd3113064475939d3841
+SHA1: eab23b55d863037416d9661d576d1c38675a9245
+SHA256: 1232095ad8e01de5d9250727a92f0fa6b7b17f9289a72fc3323a5b5012bd5f3f
+SHA512: bfaa97955c5acd78352a45556bfdbfe9b444d74ab140675e5db33f218e6208deb1090dda94bdbf472f42a576ed028293568b159a256b7f0ecaf377d7393c0a8a
+Description: Premium free
+Name: Count Discount Patch
+Author: MohammedQht <X=@20_h>
+
 Package: com.mohammedqht.firstonetweetpatch
 Architecture: iphoneos-arm64
 Version: 0.0.1-7-1+debug
