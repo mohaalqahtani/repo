@@ -1,10 +1,10 @@
 {
-    "name": "haxi0's Source",
+    "name": "MohaTroll Source",
     "subtitle": "A source for all of my apps",
     "description": "Welcome to my source! Here you'll find all of my apps.",
-    "iconURL": "https://avatars.githubusercontent.com/u/85764897?v=4",
-    "headerURL": "https://avatars.githubusercontent.com/u/85764897?v=4",
-    "website": "https://haxi0.space/",
+    "iconURL": "https://avatars.githubusercontent.com/u/154904444?v=4",
+    "headerURL": "https://avatars.githubusercontent.com/u/154904444?v=4",
+    "website": "https://github.com/mohaalqahtani",
     "tintColor": "#F54F32",
     "featuredApps": ["com.haxi0.TrollBoard-Reborn", "org.haxi0.Derootifier", "org.haxi0.TrollLock"],
     "apps": [
